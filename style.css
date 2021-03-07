@@ -6,7 +6,13 @@
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 }
+#post{
+  padding-left:500px;
+}
+#title{
+  text-align:center;
 
+}
 /* Links inside the navbar */
 .navbar a {
   float: left;
